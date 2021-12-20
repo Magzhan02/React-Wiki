@@ -8,6 +8,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Axios
 * Scss(module)
 
-# Api 
+# API
 
 [Wikipedia.org API](https://en.wikipedia.org/w/api.php?action=help)
