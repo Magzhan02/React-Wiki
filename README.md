@@ -11,3 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # API
 
 [Wikipedia.org API](https://en.wikipedia.org/w/api.php?action=help)
+
+# GitHub Pages
+
+link:  https://magzhan02.github.io/React-Wiki/
