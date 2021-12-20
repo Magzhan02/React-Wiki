@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 * ReactJS + хуки
 * Axios
-* Scss(module)
+* SCSS(module)
 
 # API
 
